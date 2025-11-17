@@ -11,6 +11,12 @@
       "genre": "Aventure",
       "duree": 162,
       "image": "https://via.placeholder.com/200"
+    },
+      {
+      "titre": "Titanic",
+      "genre": "Aventure-roumance",
+      "duree": 181,
+      "image": "https://via.placeholder.com/200"
     }
   ]
 }
