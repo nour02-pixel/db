@@ -15,7 +15,13 @@
       {
       "titre": "Titanic",
       "genre": "Aventure-roumance",
-      "duree": 90,
+      "duree": 181,
+      "image": "https://via.placeholder.com/200"
+    },
+     {
+      "titre": "spider-man",
+      "genre": "Aventure",
+      "duree": 80,
       "image": "https://via.placeholder.com/200"
     }
   ]
